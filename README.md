@@ -1,2 +1,2 @@
 # hello-world
-start
+Let's explore the world of GitHub
